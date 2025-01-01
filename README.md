@@ -1,2 +1,2 @@
-# British-Airway
+# British-Airways
 Analysing customer reviews
